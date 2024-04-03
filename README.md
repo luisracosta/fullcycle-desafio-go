@@ -1,8 +1,12 @@
-# fullcycle-desafio-go
+# Fullcycle desafio-go
 Repositorio para o desafio da Fullcycle GO
 
-para compilar:
+# Build 
+```
 docker build -t lracosta/fullcycle .
+```
 
-para executar:
+# Executar o container
+```
 docker run --rm lracosta/fullcycle
+```
